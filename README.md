@@ -8,6 +8,6 @@
    
 Telegrambot with WebApp (React Js) Sneaker's shop  
 Installing and start  
-- Clone rep: git clone https://github.com/pashtonchik/sneackers-shop-in-telegram.git   
-- Install modules: pip install -r ./requirements.txt  
-- Start file app.py: python app.py  
+- Clone rep: ``` git clone https://github.com/pashtonchik/sneackers-shop-in-telegram.git ```   
+- Install modules: ``` pip install -r ./requirements.txt ``` 
+- Start file app.py: ``` python app.py ``` 
